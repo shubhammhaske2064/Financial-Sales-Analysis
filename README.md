@@ -83,4 +83,4 @@ Plan inventory based on seasonal sales trends to avoid stock shortages or overst
 Focus on improving profit margins by optimizing COGS.
 Expand marketing efforts in countries with growth potential while maintaining strong performance in established markets.
 
-Dashboard Preview : 
+Dashboard Preview : https://github.com/shubhammhaske2064/Financial-Sales-Analysis/blob/main/Dashboard%20image.png
